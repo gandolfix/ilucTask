@@ -1,0 +1,9 @@
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\bin\Debug\ilucTask.exe.config
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\bin\Debug\ilucTask.exe
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\bin\Debug\ilucTask.pdb
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\obj\Debug\ilucTask.csprojAssemblyReference.cache
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\obj\Debug\ilucTask.exe
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\obj\Debug\ilucTask.pdb
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre.gandolfi\source\repos\ilucTask\ilucTask\obj\Debug\ilucTask.csproj.CopyComplete

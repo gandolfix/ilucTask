@@ -1,0 +1,32 @@
+[
+    {
+        "Nome": "Prioridade",
+        "Texto": "P",
+        "Tamanho": 1
+    },
+    {
+        "Nome": "Projeto",
+        "Texto": "Projeto",
+        "Tamanho": 15
+    },
+    {
+        "Nome": "Titulo",
+        "Texto": "Titulo",
+        "Tamanho": 65
+    },
+    {
+        "Nome": "Usuario",
+        "Texto": "Usuario",
+        "Tamanho": 15
+    },
+    {
+        "Nome": "Data",
+        "Texto": "Data",
+        "Tamanho": 10
+    },
+    {
+        "Nome": "Status",
+        "Texto": "Status",
+        "Tamanho": 6
+    }
+]
